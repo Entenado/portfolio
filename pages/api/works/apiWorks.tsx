@@ -36,7 +36,7 @@ export const items: Item[] = [
     image: image3,
     text: "E-commerce de perfumes, enfocado a una tienda online",
     tags: ["React", "Node", "CSS", "PostgreSQL", "Axioss", "Java", "ApiRest", "SpringBoot"],
-    repo: "https://lnkd.in/dxuNPEmX",
-    web: "https://lnkd.in/dxuNPEmX",
+    repo: "https://github.com/Entenado/Fragance.net/tree/master/fragance.net",
+    web: "https://www.linkedin.com/feed/update/urn:li:activity:7113652407397462016/",
   },
 ];
